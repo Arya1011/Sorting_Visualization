@@ -1,0 +1,16 @@
+{
+  "name": "sorting-visualizer-1-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Arya1011.githubio/Sorting_Visualization",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
