@@ -11,6 +11,9 @@ Sorting algorithms visualizer built using Javascript, HTML and CSS. Provides an 
 
 ## 📊 Sorting.Visulizer 🕹[Try It Now] (arya1011.github.io/sorting_visualization/)
 
+
+![sorting](https://user-images.githubusercontent.com/54039704/173012698-e7b3fe22-17db-4021-b1ba-be7ecdd5c620.gif)
+
 _With the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**_Array Size Control_**)
 
 ## ⚙ How it works ?!
@@ -20,7 +23,5 @@ _With the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**
 **The algorithms moves the items around by swapping elements, Without using any addational memory with creating another array**
 
 
-
-![Sorting visualizer](https://user-images.githubusercontent.com/54039704/172886611-e86efc61-668b-40e6-b36d-12b95ddabdb0.jpg)
 
 
