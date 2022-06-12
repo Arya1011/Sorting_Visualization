@@ -9,7 +9,7 @@ Sorting algorithms visualizer built using Javascript, HTML and CSS. Provides an 
 5. Quick Sort
 6. Heap Sort
 
-_Availablew with the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**_Array Size Control_**)
+_Available with the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**_Array Size Control_**)
 
 ## 🕹[Try It Now] (arya1011.github.io/sorting_visualization/)
 
